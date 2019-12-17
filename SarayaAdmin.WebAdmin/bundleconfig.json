@@ -1,0 +1,25 @@
+[
+    {
+        "outputFileName": "wwwroot/js/app.min.js",
+        "inputFiles": [
+            "wwwroot/modules/jquery.min.js",
+            "wwwroot/modules/popper.js",
+            "wwwroot/modules/tooltip.js",
+            "wwwroot/modules/bootstrap/js/bootstrap.min.js",
+            "wwwroot/modules/nicescroll/jquery.nicescroll.min.js",
+            "wwwroot/modules/moment.min.js",
+            "wwwroot/modules/vue.js",
+            "wwwroot/modules/vue-cookies.js",
+            "wwwroot/modules/axios.min.js",
+            "wwwroot/modules/sweetalert/sweetalert.min.js",
+            "wwwroot/modules/vuelidate.min.js",
+            "wwwroot/modules/validators.min.js",
+            "wwwroot/modules/vuejs-paginate.js",
+            "wwwroot/js/stisla.js"
+        ],
+        "minify": {
+            "enabled": true,
+            "renameLocals": true
+        }
+    }
+]
